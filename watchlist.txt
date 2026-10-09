@@ -1,0 +1,7 @@
+# Ek line mein ek stock (NSE ke liye .NS). # se shuru line ignore hoti hai.
+JAMNAAUTO.NS
+MOTHERSON.NS
+NBCC.NS
+JIOFIN.NS
+HFCL.NS
+TATASTEEL.NS
